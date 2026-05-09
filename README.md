@@ -77,6 +77,8 @@ Show age in months and days
 Add animations for result display
 Improve UI with modern design styles
 Add validation for future dates
-👨‍💻 Author
+👨‍💻 MrM
+
+Project URL https://github.com/CodeWithMrM/Age-Calculator
 
 Built by a developer learning and improving JavaScript fundamentals through hands-on projects.
